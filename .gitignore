@@ -1,0 +1,5 @@
+credentials.h
+.vscode/
+.DS_Store
+*.bin
+*.elf
