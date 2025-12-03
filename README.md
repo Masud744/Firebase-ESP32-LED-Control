@@ -52,7 +52,7 @@ University of Frontier Technology, Bangladesh
 Email: shahriar0002@std.uftb.ac.bd
 
 ## 🌐 Connect With Me
-LinkedIn: https://www.linkedin.com/in/shahriar-alom-masud  
+LinkedIn:(https://bd.linkedin.com/in/shahriar-alom-masud)  
 GitHub Profile: https://github.com/Masud744  
 
 ## ⭐ Support
